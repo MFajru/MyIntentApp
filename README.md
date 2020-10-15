@@ -1,2 +1,2 @@
 # MyIntentApp
-Modul Praktikum 2 (Intent)
+Modul Praktikum 1 (Intent)
